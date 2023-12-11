@@ -1,4 +1,4 @@
-console.log(81); 
+console.log(81)
 
 let b=200;
 let a=20;
